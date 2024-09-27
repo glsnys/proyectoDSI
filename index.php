@@ -11,8 +11,12 @@
     <div class="row">
         <header class="bg-info">
             Cabecera
+            Pepito
+            JEAN
             Aldair
             Luis
+            ahorita esplota mi compu
+>>>>>>> de9165789c6d8afd05cca96aa2d2207902e8c5b7
         </header>
         <nav class="navbar navbar-expand-lg bg-body-tertiary">
             <div class="container-fluid">
