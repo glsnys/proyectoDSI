@@ -11,6 +11,7 @@
     <div class="row">
         <header class="bg-info">
             Cabecera
+            JEAN
 <<<<<<< HEAD
             brayan
             gaaaaaaaaaaaaaaaaaaa
