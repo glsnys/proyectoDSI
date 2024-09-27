@@ -41,7 +41,7 @@
                 $segundo=$_GET['num2'];
 
                 $respuesta = $primero+$segundo;
-
+    
                 echo '<h1>'.$respuesta.'</h1>';
             ?>
         </div>
