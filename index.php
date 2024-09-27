@@ -10,6 +10,10 @@
     
     <div class="row">
         <header class="bg-info">
+            Cabecera
+            JEAN
+            Aldair
+            Luis
             Yerson
         </header>
         <nav class="navbar navbar-expand-lg bg-body-tertiary">
