@@ -115,19 +115,7 @@
             </div>
         </div>
         <aside class="col-md-3 bg-primary">
-            
-            <form action="calculadora.php" method="get">
-                <div class="mb-3">
-                    <input class="form-control" type="number" name="num1" placeholder="Número 1">
-                </div>
-                <div class="mb-3">
-                    <input class="form-control"  type="number" name="num2" placeholder="Número 2">
-                </div>
-                <div class="mb-3">
-                    <input class="btn btn-warning" type="submit" value="Sumar">
-                </div>
-            </form>
-
+            Barra lateral
         </aside>
         <footer class="bg-danger">
             Sitio web desarrollado por los alumnos de DSI 4
