@@ -11,10 +11,7 @@
     <div class="row">
         <header class="bg-info">
             Cabecera
-            Pepito
-            JEAN
             Aldair
-            Luis
         </header>
         <nav class="navbar navbar-expand-lg bg-body-tertiary">
             <div class="container-fluid">
