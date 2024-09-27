@@ -112,7 +112,7 @@
             Barra lateral
         </aside>
         <footer class="bg-danger">
-            Pie de página
+            Sitio web desarrollado por los alumnos de DSI 4
         </footer>
     </div>
     
