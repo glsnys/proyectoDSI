@@ -11,15 +11,13 @@
     <div class="row">
         <header class="bg-info">
             Cabecera
+<<<<<<< HEAD
             Pepito
             JEAN
 <<<<<<< HEAD
-            brayan,
+            brayan
             gaaaaaaaaaaaaaaaaaaa
             Aldair
-            Luis
-            ahorita esplota mi compu
->>>>>>> de9165789c6d8afd05cca96aa2d2207902e8c5b7
         </header>
         <nav class="navbar navbar-expand-lg bg-body-tertiary">
             <div class="container-fluid">
@@ -118,7 +116,17 @@
             </div>
         </div>
         <aside class="col-md-3 bg-primary">
-            Barra lateral
+            <form action="calculadora.php" method="get">
+                <div class="mb-3">
+                    <input class="form-control" type="number" name="num1" placeholder="Número 1">
+                </div>
+                <div class="mb-3">
+                    <input class="form-control"  type="number" name="num2" placeholder="Número 2">
+                </div>
+                <div class="mb-3">
+                    <input class="btn btn-warning" type="submit" value="Sumar">
+                </div>
+            </form>
         </aside>
         <footer class="bg-danger">
             Sitio web desarrollado por los alumnos de DSI 4
