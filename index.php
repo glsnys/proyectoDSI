@@ -111,6 +111,7 @@
         </div>
         <aside class="col-md-3 bg-primary">
             Barra lateral
+            
         </aside>
         <footer class="bg-danger">
             Sitio web desarrollado por los alumnos de DSI 4
