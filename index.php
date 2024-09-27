@@ -14,8 +14,9 @@
 <<<<<<< HEAD
             Pepito
             JEAN
-=======
->>>>>>> b29e35ecfb8bccaa0db730e2a2da4417a748a92a
+<<<<<<< HEAD
+            brayan
+            gaaaaaaaaaaaaaaaaaaa
             Aldair
         </header>
         <nav class="navbar navbar-expand-lg bg-body-tertiary">
